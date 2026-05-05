@@ -1,0 +1,5 @@
+fitter
+pandas
+scipy
+numpy
+matplotlib
