@@ -1,0 +1,19 @@
+# Claude
+CLAUDE.md
+.claude/
+
+# CSV generados por las corridas
+simulacion_loglogistic.csv
+simulacion_t_skew.csv
+resultado_corrida.csv
+
+# Salidas generadas en entrega2/
+entrega2/simulacion_fisk_semanal.csv
+entrega2/cdf_fisk.png
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
